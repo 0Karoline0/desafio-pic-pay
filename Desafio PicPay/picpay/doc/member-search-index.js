@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.picpay.picpay.authorization","c":"AuthorizerService","l":"authorize(Transaction)","u":"authorize(br.com.picpay.picpay.transaction.Transaction)"},{"p":"br.com.picpay.picpay.authorization","c":"AuthorizerService","l":"AuthorizerService(RestClient.Builder)","u":"%3Cinit%3E(org.springframework.web.client.RestClient.Builder)"}];updateSearchResults();
